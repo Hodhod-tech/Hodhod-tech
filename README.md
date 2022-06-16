@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hodhod-tech
 - 👀 I’m interested in devloping new Website for Hadeeth .
 - 🌱 I’m currently looking to devlope a website for Hadeeth .
-- 💞️ I’m looking to collaborate on bulding new website for Hadeeth .I would like to know if  Hadeeths are available for free to download?
+- 💞️ I’m looking to collaborate on bulding new website for Hadeeth .I would like to know if  Hadeeths are available for free to be  downloaded?
 
 
 - 📫 How to reach me shuayb@hodhod-tech.com
